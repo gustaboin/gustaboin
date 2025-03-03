@@ -24,7 +24,7 @@ I love to blend my technical skills with my passion for cinema, especially class
 ## Let's Connect 🤝
 Feel free to check out my repositories and projects. I'm always open to collaboration and discussions about technology and cinema!
 
-## My Coursera Badges
+## My Coursera Badges 🏆
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gustavo-leandro-gonzalez/)
 
 

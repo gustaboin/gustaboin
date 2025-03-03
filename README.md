@@ -8,7 +8,7 @@
 
 I am a passionate developer with over 8 years of experience in SQL Server, MySQL, and MariaDB. My expertise lies in database management, optimization, and designing efficient data-driven solutions.
 
-## Combining Passions
+## Combining Passions 
 I love to blend my technical skills with my passion for cinema, especially classic Italian films. This unique combination allows me to approach projects with creativity and a storytelling mindset.
 
 ## Skills

@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Gus](https://www.github.com/gustaboin) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=gustaboin" alt="visitor badge"/><p/>
+# Hi there 👋 , I'm [Gus](https://www.github.com/gustaboin) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=gustaboin" alt="visitor badge"/><p/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guslgonzalez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustaboin@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Website](https://img.shields.io/website?url=https://www.che.com.ar)](https://www.che.com.ar)
@@ -6,7 +6,7 @@
 
 # About Me
 
-## <b>SQL Server Developer</b>
+## <b>SQL Server Developer</b> <img src="https://cdn-icons-png.flaticon.com/32/9544/9544010.png">
 
 I am a passionate developer with over 8 years of experience in SQL Server, MySQL, and MariaDB. My expertise lies in database management, optimization, and designing efficient data-driven solutions.
 

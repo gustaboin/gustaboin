@@ -1,5 +1,27 @@
 ### Hi there 👋 , I'm [Gus](https://www.github.com/gustaboin) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=gustaboin" alt="visitor badge"/></p>
 
+<img src="https://github.com/gustaboin/gustaboin/blob/main/cinema_4.jpg" >
+
+# About Me
+
+## <b>SQL Server Developer</b>
+
+I am a passionate developer with over 8 years of experience in SQL Server, MySQL, and MariaDB. My expertise lies in database management, optimization, and designing efficient data-driven solutions.
+
+## Combining Passions
+I love to blend my technical skills with my passion for cinema, especially classic Italian films. This unique combination allows me to approach projects with creativity and a storytelling mindset.
+
+## Skills
+Database Technologies: SQL Server, MySQL, MariaDB
+
+Web Development: HTML, CSS, JavaScript, Node.js
+
+Data Management: Data modeling, performance tuning, and query optimization
+
+
+## Let's Connect
+Feel free to check out my repositories and projects. I'm always open to collaboration and discussions about technology and cinema!
+
 <!--
 **gustaboin/gustaboin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

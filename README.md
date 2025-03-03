@@ -10,18 +10,18 @@
 
 I am a passionate developer with over 8 years of experience in SQL Server, MySQL, and MariaDB. My expertise lies in database management, optimization, and designing efficient data-driven solutions.
 
-## Combining Passions 
+## Combining Passions 🎬 & 👨‍💻
 I love to blend my technical skills with my passion for cinema, especially classic Italian films. This unique combination allows me to approach projects with creativity and a storytelling mindset.
 
-## Skills
-Database Technologies: SQL Server, MySQL, MariaDB
+## Skills 💪
+**Database Technologies:** SQL Server, MySQL, MariaDB
 
-Web Development: HTML, CSS, JavaScript, Node.js
+**Web Development:** HTML, CSS, JavaScript, Node.js
 
-Data Management: Data modeling, performance tuning, and query optimization
+**Data Management:** Data modeling, performance tuning, and query optimization
 
 
-## Let's Connect
+## Let's Connect 🤝
 Feel free to check out my repositories and projects. I'm always open to collaboration and discussions about technology and cinema!
 
 ## My Coursera Badges
@@ -34,8 +34,9 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 
 
-
-
+## Popular Repositories 🚀
+- **[voley](https://github.com/gustaboin/voley)** - A fun volleyball training board app! 🏐
+- **[myDappGus](https://github.com/gustaboin/myDappGus)** - A decentralized application built with TypeScript! 🌐
 
 
   <!--

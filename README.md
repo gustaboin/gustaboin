@@ -50,6 +50,7 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 
 ## Popular Repositories 🚀
+- **[miniRedSocial](https://github.com/gustaboin/minired)** - Mini Red Social con login y posteos en localStorage! 💬
 - **[voley](https://github.com/gustaboin/voley)** - A fun volleyball training board app! 🏐
 - **[myDappGus](https://github.com/gustaboin/myDappGus)** - A decentralized application built with TypeScript! 🌐
 
